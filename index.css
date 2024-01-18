@@ -41,7 +41,10 @@ h3 {
   background-color: #3498db;
   color: #fff;
   text-align: center;
-  padding: 10px;
+  padding: 30px;
+  margin-top: 0px;
+  position: fixed;
+  width: 100%;
 }
 
 #movie-details {
@@ -50,10 +53,15 @@ h3 {
   align-items: center;
   text-align: center;
   background-color: whitesmoke;
+  margin-top: 100px;
 }
 
 #movie-details img {
   max-width: 50%;
   height: auto;
   margin-bottom: 10px;
+}
+
+#films{
+    margin-top: 100px;
 }
