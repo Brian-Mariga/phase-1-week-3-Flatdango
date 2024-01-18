@@ -46,3 +46,5 @@ function fetchMovieDetails(movieId) {
     })
     .catch((error) => console.error("Error fetching movie details:", error));
 }
+
+function displayMovieDetails(movie) {}
